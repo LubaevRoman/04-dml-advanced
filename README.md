@@ -1,41 +1,7 @@
 # 04-dml-advanced
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
 @LubaevRoman 
-netology-code
-/
-py-homeworks-db
-Public
-Fork your own copy of netology-code/py-homeworks-db
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-You’re making changes in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change will write it to a new branch in your fork, so you can send a pull request.
-py-homeworks-db
-/
 04-dml-advanced
-/
-README.md
-in
-netology-code:video
- 
 
-Spaces
-
-2
-
-Soft wrap
-1
 # Домашнее задание к лекции «Продвинутая выборка данных»
 2
 ​
